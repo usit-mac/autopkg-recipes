@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IFPkgDescriptionDescription</key>
+	<string>Autodesk Memento is an end-to-end solution for converting any captured reality input (photos or scans) into high definition 3D meshes that can be cleaned up, fixed, and optimized for the Web, mobile or 3D printing / fabbing.</string>
+	<key>IFPkgDescriptionTitle</key>
+	<string>Memento</string>
+</dict>
+</plist>
